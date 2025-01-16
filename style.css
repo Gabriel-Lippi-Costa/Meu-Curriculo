@@ -40,6 +40,10 @@ hr{
     width: 50%;
 }
 
+li{
+    padding: 5px;
+}
+
 .projetos{
     margin-left: 10px;
     margin-top: 15px;
