@@ -108,3 +108,19 @@ thead, tfoot {
     background-color: gray;
     color: white;
 }
+
+.premios {
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+
+.premios ol {
+    margin-left: 20px;
+}
+
+.premios li {
+    font-size: 1em;
+    font-weight: bolder;
+    margin-top: 10px;
+}
